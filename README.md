@@ -1,7 +1,5 @@
 # MINOR / Security & advanced development
 
----
-
 Name: Security & advanced development
 
 Code: MINOR
@@ -35,8 +33,6 @@ Publisher: Hogeschool Rotterdam
 Rights: © 2015 HR, CC BY-SA 4.0
 
 Tags: [distributed systems, security, formal methods]
-
----
 
 ## Week 01: Theory
 
