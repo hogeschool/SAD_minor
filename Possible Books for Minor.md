@@ -16,7 +16,8 @@ Book: Threat Modeling Book ([Book](http://threatmodelingbook.com))
 #### Security Architecture
 *Guys in Delft are asked to deliver input* (Last update: 13/6/2015)
 
-<<<<<<< Updated upstream
+Engineering security?
+
 ### Technical Track
 
 #### Security Operations
@@ -32,10 +33,6 @@ PDF: Security Engineering ([PDF](http://www.cl.cam.ac.uk/~rja14/book.html))
 #### Arne needs to seek his A4's
 
 //TODO
-
-=======
-Engineering security?
->>>>>>> Stashed changes
 
 ##Q3 - Assessment of security
 ### Open Source Software Assessment
