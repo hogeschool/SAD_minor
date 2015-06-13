@@ -2,17 +2,15 @@
 
 Name: Security & advanced development
 
-*DdV*: Slopen die handel
-
 Code: MINOR
 
 Study load: 30 ECTS / 840 hours (only indicative, you may need background reading), made up of 144h contact, 620h homework, 10h revision, 2h exam, 2h check, 10h presentations, 10h planning, and 42h buffer.
 
-Prerequisites: [to be decided], or permission of the instructor.
+Prerequisites: For taking part in any part of the minor, the previous parts of the minor of that study year need to have been completed successfully, or permission of the instructor is needed.
 
 Format: Independent lectures (50 minutes "hoorcollege", only for full-time students ???, combined lecture for all classes in 5th floor college hall ???) and labs (100 minutes "werkcollege"), along with readings and other homework
 
-Assessment: S (in week 5, retake week 9) and O (due week 8, corrections week 9). The exam is graded by two instructors as 2, 4, 6, 8, or 10, with the average being the exam grade. The same counts for the presentation of the lab. Exam and lab grades are the average of the grades given by two graders, provided that they are within 2 points of each other. Otherwise, a third grader is consulted. The final grade is the average of the exam and presentation grade. Final grades are not rounded, and an average of 5.5 or higher is a pass, provided a minimum of 4 for the exam and presentation, and that all required assignments have been handed in on time.
+Assessment: S (in week 5, retake week 9) and O (due week 8, corrections week 9). The exam is graded by two instructors as 2, 4, 6, 8, or 10, with the average being the exam grade. The same counts for the presentation of the lab. Exam and lab grades are the average of the grades given by two graders, provided that they are within 2 points of each other. Otherwise, a third grader is consulted. The final grade is the average of the exam and presentation grade. Final grades are not rounded, and an average of 5.5 or higher is a pass, provided a minimum of 4 for the exam and presentation, and that all required assignments have been handed in on time. One grade is given for the whole minor.
 
 Materials: Background readings are given in the course description. Note that some materials have to be read before the start of class.
 
