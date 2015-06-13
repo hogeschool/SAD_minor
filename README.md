@@ -2,8 +2,6 @@
 
 Name: Security & advanced development
 
-*DdV*: Slopen die handel
-
 Code: MINOR
 
 Study load: 30 ECTS / 840 hours (only indicative, you may need background reading), made up of 144h contact, 620h homework, 10h revision, 2h exam, 2h check, 10h presentations, 10h planning, and 42h buffer.
