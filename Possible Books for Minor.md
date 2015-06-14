@@ -50,7 +50,7 @@ PDF: Security Engineering ([PDF](http://www.cl.cam.ac.uk/~rja14/book.html))
 
 //TODO
 
-## Q3 - White box evaluation / Controlled environment: in the lab
+## Q3 - White box evaluation / Controlled environment: in the lab / Lab work
 
 Assessment of security
 
@@ -64,7 +64,7 @@ Usable security book O'Reilly?
 
 Book: The art of software security assessment (ISBN-13: 978-0321444424 / [Amazon](http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426))
 
-## Q4 - Black box evaluation / Open environment: in the field
+## Q4 - Black box evaluation / Open environment: in the field / Field work
 
 ### Human track: Phishing
 
