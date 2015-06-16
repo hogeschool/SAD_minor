@@ -36,6 +36,9 @@ Book: Threat Modeling Book ([Book](http://threatmodelingbook.com))
 
 Engineering security?
 
+Response from Adam Shostack when asked for a partner book to Threat Modeling:
+I do not have any security architecture books i'm fond of. I think that most of them get the levelling or patterns wrong. I do like the van Duyne "design of sites" book, which has only a small security section. That may be a better pattern--embedding security architecture into the larger architectures of which it's a part. (I'm not deeply sure of that.)
+
 ### Technical Track
 
 #### Security Operations
