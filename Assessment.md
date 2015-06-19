@@ -34,3 +34,21 @@ fri:
 * 12:00 - 12:10 - Time to round up the day
 * 12:10 - 15:00 - Practice
 * 15:00 - 16:40 - Exam. This exam consists of questions created by you, your fellow students and the lecturers. 
+
+## Exam
+
+THe exam taken at the first four weeks consists of 40 multiple-choice questions, created by you, your fellow students and the lecturers. 
+
+### Pitching
+
+Every mo-thu you and your partner will pitch on the subject, especially on the practical part of the day. What (un)usefull did you find? What came in handy? What problems did you occur, did you solve them, and if not: what are you going to do about it?
+
+Every day you will get a grade for your pitch: "negative", "neutral" or "positive". You are able to raise and lower your final week-grade with one point.
+
+### Grading
+
+Every week you will have an individual multiple choice exam on Friday. The input of the pitches will be added to this regard. The final grade of the exams is the average of all exams, but only when **ALL** weeks are at least graded 4 or higher. Cesure of your final mark is 5.5.
+
+### Failure
+
+You didn't succeed the first time? No issue, you are able to redo your exam, but only for one week. Also, an additional task needs to be delivered: you need to add an abstract (min-max 5 A4) from one or more academic papers.
