@@ -99,3 +99,6 @@ Book: Network security assessment?
 
 Extremely likely:
 Book: Web application hackers' handbook?
+
+When asking Stefan:
+That sounds interesting. However, I  have no good pen testing books to propose... I still believe that "hands-on" and CTF are best trainings...
