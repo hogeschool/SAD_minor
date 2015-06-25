@@ -60,42 +60,13 @@ Grades per multiple-choice exam are determined as: 10 - [1 point per 3 questions
 
 You didn't succeed the first time? No issue, you are able to redo your exam, but only withing one week of getting the result, and only for one week out of four. Also, an additional task needs to be delivered: you need to add an abstract (min-max 5 A4) from one or more academic papers.
 
-## Week 5
-
-In this week a retake of one multiple choice exam is possible. --> when? Friday?
+In any situations where a retake or reparation is given an additional taks needs to b edelivered: you need to write an abstract of one or more academic papers, which will be shared with other students to enable shared learning.
 
 Students write a plan for the project, do background research, etcetera for the project. This is worth 10%? of the grade.
-
-Personal learning goals?
-
-2.5ECTS --> theorie
-
-5 ECTS --> praktijk
-
-7.5 ECTS --> globaal aftoetsen in Q2
 
 10% --> eigen theorie leerdoelen, achtergrondonderzoek --> week 5
 10% --> individueel mondeling
 20% --> eindrapport is theorie toetsing
-
-Q1
-7.5 theorie --> 4x multiplechoice op vrijdag
-
-Q2
-2.5 theorie
-5.0 praktijk --> 4x 10% pitches
-
-Q3
-2.5 theorie
-5.0 praktijk --> 4x 10% pitches
-
-Q4
-2.5 theorie
-5.0 praktijk --> 4x 10% pitches
-
-hangt theorie aan het project? of appart getoetst?
-
-
 
 - wanneer inleveren ==> in week 9 of in week 10? wanneer nagekeken? wanneer retake?
 - hoe met rest van 60%
@@ -111,59 +82,97 @@ Where retakes are possible, these are only possible within one week of getting t
 
 spend week 5, week 10, and week 15 on theory as preparation for the project? e.g. go through the recommended background reading quickly in the 10:30 to 12:00 hours? this can be combined with an in-class Q&A session to support students in their search for relevant background literature, hopefully also allowing them to learn from one-another
 
+NOTE --> "bij twijfel the lower percentage is given?"
+
 ### Part 1
 
-In Week 1 to Week 4, there are four multiple-choice exams, each worth 25% of the grade for Part 1 of the course. These exams are given on Friday at 15:00 - 16:40. A retake for one multiple
+In Week 1 to Week 4, there are four multiple-choice exams, each worth 25% of the grade for Part 1 of the course. These exams are given on Friday at 15:00 - 16:40. [A retake for one multiple-choice exam is possible in Week 5 on Friday at 15:00 - 16:40. / A retake for each multiple-choice exam is possible the week after on Monday at 08:30 - 10:10.] The multiple-choice exams each have 40 questions, in each of which one option out of four is correct. The grade for each exam is 10 - [1 point per 3 wrong answers]. This integrates a correction for guessing.
 
-week 1
-fri: 40 question multiple-choice exam, 25% of grade Q1, grade 10 - [1 point per 3 wrong answers]
+### Part 2
 
-week 2
-fri: 40 question multiple-choice exam, 25% of grade Q1, grade 10 - [1 point per 3 wrong answers]
+In Week 5, on Friday at 09:00 sharp, a paper describing the theoretical framework, background research, and project plan for Project 1 is due. It is 10% of the grade for Part 2. Note that project teams can be up to two people in size. Exceptions only with clear reasons and with permission of the instructor. Additionally, a list of the personal learning objectives of the student is due at 09:00. It is part of the 10% of the grade of Part 2 that consists of active engagement in the personal learning process. The research paper is graded based on XXX. A pass/fail grade is determined the same day. In case of a fail, the student is given until the next [Monday / Friday] at 09:00 sharp to submit a repaired version. In case of a pass, a more fine-grained grade of 6, 7, 8, 9, or 10 is [hopefully] determined within a week, together with [detailed] feedback.
 
-week 3:
-fri: 40 question multiple-choice exam, 25% of grade Q1, grade 10 - [1 point per 3 wrong answers]
+In Week 6 to Week 8, short presentations of the project status are done between 15:00 and 16:40. Each presentation is worth 10% of the grade of Part 2. The result is given as 0%, 5%, or 10%. A 10% means that all agreed-upon deliverables and work has been completed and is at an acceptable quality. A 0% means that what is presented is severly lacking. A 5% means that the work is only partly adequate. This determination is made by two lecturers. A reparation is possible until midnight of the same day, at 24:00 sharp (XXX or earlier? XXX), and should be handed in as a recorded video, of an appropriate lenth, and in a designated format. If they are used, slides are due before the start of the pitches in PDF format at the designated location.
 
-week 4:
-fri: 40 question multiple-choice exam, 25% of grade Q1, grade 10 - [1 point per 3 wrong answers]
-
-week 5:
-fri: retake of one 40 question multiple-choice exam, retake 25% of grade Q1, grade 10 - [1 point per 3 wrong answers]
-fri: theoretical framework / background research / project plan, 10% of grade Q2
-fri: personal learning goals of theory in Q2, required for Q2
-
-week 6:
-fri end of day: pitch of project status, 10% of grade Q2, grade as 0%/5%/10%, reparations for a couple of hours if result not clearly determinable
-
-week 7:
-fri end of day: pitch of project status, 10% of grade Q2, grade as 0%/5%/10%, reparations for a couple of hours if result not clearly determinable
-
-week 8:
-fri end of day: pitch of project status, 10% of grade Q2, grade as 0%/5%/10%, reparations for a couple of hours if result not clearly determinable
++ hand in an update of theory status
 
 week 9:
 fri start of day: pitch of project status, 10% of grade Q2, grade as 0%/5%/10%, reparations for a couple of hours if result not clearly determinable
 fri before pitches: project report, 30% of grade Q2, graded as fail (1) or pass (6) on day of hand-in, with 6/7/8/9/10 determined in the week after
 fri after pitches: teaching other students through an exercise, 5% of grade Q2
-fri before pitches?: reflection on personal development (together with active participation/learning throughout the quarter), 5% of grade Q2
+fri before pitches?: reflection on personal development (together with active participation/learning throughout the quarter), 5% of grade Q2?
+5% of grade internal knowledge sharing
+
++ hand in an update of theory status
 
 week 10:
 mon: if pass given week before, then project results to be shared externally in a responsible manner (ethical considerations, licensing, clarity, quality, etc), 5% of grade Q2
 fri: handing in corrections to project report if fail is given, retake of these 30% of grade Q2
 --> need to specify when external sharing of results needs to be done, and having report in the morning on friday and the external sharing at e.g. 18:00 if pass/fail is given by 12:00
 
-week 11 to 20: like week 5 to week 10 but then for Q3 and Q4
++ Friday at 09:00 --> reflection report having personal learning objectives, weekly updates, and a closing reflection
+
+### Part 3
+
+The deliverables and grading of Part 3 are the same as part 2, i.e. week 10 - 15 correspond to the deliverables and grades in week 5 - 10. Part 3 contributes for 25% to the final grade.
+
+### Part 4
+
+The deliverables and grading of Part 4 are the same as part 2, i.e. week 15 - 20 correspond to the deliverables and grades in week 5 - 10. Part 4 contributes for 25% to the final grade.
 
 ### Total grade
 
-The total grade is the average of Part 1, Part 2, Part 3, and Part 4, provided all are >= 4.0. A pass is a total of >= 5.5. No rounding is done before determining the pass grade. The final grade is rounded to one grade after the dot.
+The total grade is the average of Part 1, Part 2, Part 3, and Part 4, provided all are >= 4.0. A pass is a total of >= 5.5. No rounding is done before determining the pass grade. The final grade is rounded to one grade after the dot. Retakes from the perspective of a fail are arranged as retakes or reparations of all individual grades. This means that the student gets a second chance for all components. In case of a failure for the minor, the complete minor can be retaken in its entirety the year after, but without necessarily having a right to attend class.
+
+- Total: 100% of toal grade, should be >= 5.5
+
+   - Part 1: 25% of total grade, should be >= 4.0
+
+      - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
+      - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
+      - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
+      - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
+
+   - Part 2: 25% of total grade, should be >= 4.0
+
+      - 10% background research paper, [0%/10% or 0%/5%/10%]
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 5% internal knowledge sharing, 0%/5%/10%
+      - 30% project report, Fail (1) / Pass (6/7/8/9/10)
+      - 5% external knowledge sharing, 0%/5%
+      - 10% active self-directed learning, [0%/10% or 0%/5%/10%]
+
+   - Part 3: 25% of total grade, should be >= 4.0
+
+      - 10% background research paper, [0%/10% or 0%/5%/10%]
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 5% internal knowledge sharing, 0%/5%
+      - 30% project report, Fail (1) / Pass (6/7/8/9/10)
+      - 5% external knowledge sharing, 0%/5%
+      - 10% active self-directed learning, [0%/10% or 0%/5%/10%]
+
+   - Part 4: 25% of total grade, should be >= 4.0
+
+      - 10% background research paper, [0%/10% or 0%/5%/10%]
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 10% short presentation, 0%/5%/10%
+      - 5% internal knowledge sharing, 0%/5%
+      - 30% project report, Fail (1) / Pass (6/7/8/9/10)
+      - 5% external knowledge sharing, 0%/5%
+      - 10% active self-directed learning [0%/10% or 0%/5%/10%]
 
 ### Language
 
-All materials and submitted exercises will be in English. In exceptional circumstances this rule may be adjusted on a case-by-case basis, given grave reasons.
+All materials and submitted exercises must be in English. In exceptional circumstances this rule may be adjusted on a case-by-case basis, given grave reasons. Classes and communication with lecturers is also expected to be in English.
 
 ### Link to ROM
 
-7.5 ECTS of part 1 are theory
-
-3x7.5 ECTS of parts 2/3/4 are 2.5 ECTS theory and 5 ECTS practice. Both are combined into one grade, with theory contributing 30% to the grade and practice 70%.
+Part 1 consists of 7.5 ECTS of theory. Parts 2, 3, and 4 each consist of 7.5 ECTS of theory and practice combined. In each part 30% of the grade is derived from a theoretical framework and 70% from a practical framework. Together this corresponds to roughly 15 ECTS related to theory and 15 ECTS related to practice, equivalent to the guideline in the ROM.
