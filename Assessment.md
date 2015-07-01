@@ -135,6 +135,19 @@ The deliverables and grading of Part 3 are the same as part 2, i.e. week 10 - 15
 
 The deliverables and grading of Part 4 are the same as part 2, i.e. week 15 - 20 correspond to the deliverables and grades in week 5 - 10. Part 4 contributes for 25% to the final grade.
 
+### Curved Grading
+
+For part 2,3 and 4, the assessment of the report will be done using 'Curved Grading'.
+
+The initial grade ('pass'/'fail') will be done according:
+
+* The report must be written in flawless English
+* The report must be written according to the template of Guiseppe //FIXME
+* The report must be written using academic papers, with the use of references
+* The report must contain a research-question, and the report must sketch the theoretical background
+* The report must contain a todo-list for the practical part of the project
+* Generally, good papers consist of x pages //FIXME
+
 ### Total grade
 
 The total grade is the average of Part 1, Part 2, Part 3, and Part 4, provided all are >= 4.0. A pass is a total of >= 5.5. No rounding is done before determining the pass grade. The final grade is rounded to one grade after the dot. Retakes from the perspective of a fail are arranged as retakes or reparations of all individual grades. This means that the student gets a second chance for all components. In case of a failure for the minor, the complete minor can be retaken in its entirety the year after, but without necessarily having a right to attend class.
