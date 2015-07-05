@@ -82,6 +82,12 @@ Rocket surgery made easy
 Not too likely:
 Usable security book O'Reilly?
 
+Feedback from Anne van Brussel:
+
+Anne: Voor software developers die zelf usability tests willen uitvoeren is Rocket surgery made easy” by Krug het meest geschikt.
+Arne: Thanks. Zo’n idee had ik ook. Toen ik het las klonk het wel als een beetje kort door de bocht hier en daar, maar als 1e boek is het waarschijnlijk de beste.
+Anne: Dat klopt, Krug brengt het een beetje quick en dirty. Maar wel toegankelijk. Voor beginners en voor praktische toepassingen zeker geschikt.
+
 ### Technical track: Open Source Software Assessment
 
 Most likely:
