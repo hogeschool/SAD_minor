@@ -11,15 +11,15 @@ The first four weeks consist of the following topics:
 - Network security
 - Humanoid security
 
-Week 5 is an in-between week.
+Week 5 is a week where at Monday some theory will be given. Furthermore the student has the possibility to research the theoretical background. From tu - fri, the student can request additional help/theory. 
 
 Week 6 to 9 is the core of Project 1.
 
-Week 10 is an in-between week.
+Week 10 is a week where at Monday some theory will be given. Furthermore the student has the possibility to research the theoretical background. From tu - fri, the student can request additional help/theory.
 
 Week 11 to 14 is the core of Project 2.
 
-Week 15 is an in-between week.
+Week 15 is a week where at Monday some theory will be given. Furthermore the student has the possibility to research the theoretical background. From tu - fri, the student can request additional help/theory.
 
 Week 16 to 19 is the core of Project 3.
 
@@ -30,6 +30,7 @@ Week 20 is a wrap-up week.
 Monday to Thursday the days will have the following program:
 
 * [on the first monday: 9:00 kick-off, introduction of minor / first quarter]
+* 8:30 - 10:10 - Possibility to retate the exam of previous week
 * 10:10 - Lecturers are in, coffee available, possibility to ask questions
 * 10:30 - 11:00 - Lectures start. Not in = too late.
 * 11:00 - 11:20 - Students are creating exam-questions and answers for the exam at Friday.
@@ -41,7 +42,6 @@ Monday to Thursday the days will have the following program:
 
 Friday:
 
-* [08:30 to 10:10 as time for retake multiple choice, or do this on monday? --> Monday might be handier as it matches well with the kick-off, making scheduling easier]
 * 10:10 - Lecturers are in, coffee available, possibility to ask questions
 * 10:30 - 11:00 - Lectures start. Not in = too late.
 * 11:00 - 11:20 - Students are creating exam-questions and answers for the exam at Friday.
@@ -51,8 +51,9 @@ Friday:
 * 12:10 - 15:00 - Practice / exam prep ?
 * 15:00 - 16:40 - Exam. This exam consists of questions created by you, your fellow students and the lecturers.
 
-### Days in Week 5 to Week 20 ???
+### Days in Week 6 - 9, 11 - 14
 
+Monday
 ??????
 
 ### Attendance
@@ -135,9 +136,11 @@ The deliverables and grading of Part 3 are the same as part 2, i.e. week 10 - 15
 
 The deliverables and grading of Part 4 are the same as part 2, i.e. week 15 - 20 correspond to the deliverables and grades in week 5 - 10. Part 4 contributes for 25% to the final grade.
 
-### Curved Grading
+### Curved Grading with the research paper
 
-For part 2,3 and 4, the assessment of the report will be done using 'Curved Grading'.
+//FIXME: Dit is voor het academisch paper
+
+For part 2, 3 and 4, the assessment of the background research paper as well as the final report will be done using 'Curved Grading'.
 
 The initial grade ('pass'/'fail') will be done according:
 
@@ -148,6 +151,25 @@ The initial grade ('pass'/'fail') will be done according:
 * The report must contain a todo-list for the practical part of the project
 * Generally, good papers consist of x pages //FIXME
 
+When the document didn't fail, the assessors will grade the document using [Curved Grading](https://en.wikipedia.org/wiki/Grading_on_a_curve).
+
+### Curved Grading with the final report
+
+//FIXME: Dit moet aangepast worden naar het praktische gedeelte
+
+For part 2, 3 and 4, the assessment of the background research paper as well as the final report will be done using 'Curved Grading'.
+
+The initial grade ('pass'/'fail') will be done according:
+
+* The report must be written in flawless English
+* The report must be written according to the template of Guiseppe //FIXME
+* The report must be written using academic papers, with the use of references
+* The report must contain a research-question, and the report must sketch the theoretical background
+* The report must contain a todo-list for the practical part of the project
+* Generally, good papers consist of x pages //FIXME
+
+When the document didn't fail, the assessors will grade the document using [Curved Grading](https://en.wikipedia.org/wiki/Grading_on_a_curve).
+
 ### Total grade
 
 The total grade is the average of Part 1, Part 2, Part 3, and Part 4, provided all are >= 4.0. A pass is a total of >= 5.5. No rounding is done before determining the pass grade. The final grade is rounded to one grade after the dot. Retakes from the perspective of a fail are arranged as retakes or reparations of all individual grades. This means that the student gets a second chance for all components. In case of a failure for the minor, the complete minor can be retaken in its entirety the year after, but without necessarily having a right to attend class.
@@ -156,35 +178,22 @@ The total grade is the average of Part 1, Part 2, Part 3, and Part 4, provided a
 
    - Part 1: 25% of total grade, mean should be >= 4.0
 
-      - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
+      - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10 //FIXME OpenType :(
       - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
       - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
       - 25% multiple-choice exam, ND/1/2/3/4/5/6/7/8/9/10
 
-   - Part 2: 25% of total grade, should be >= 4.0
+   - Part 2,3,4 : 25% of total grade, should be >= 4.0
 
-      - 10% background research paper, [0%/10% or 0%/5%/10%]
-      - 10% short presentation, 0%/5%/10%
-      - 10% short presentation, 0%/5%/10%
-      - 10% short presentation, 0%/5%/10%
-      - 10% short presentation, 0%/5%/10%
-      - 05% internal knowledge sharing, 0%/5%/10%
-      - 30% project report, Fail (1) / Pass (6/7/8/9/10)
-      - 05% external knowledge sharing, 0%/5%
+      - 25% background research paper, Fail (1) / Pass (6/7/8/9/10)
+      - 25% knowledge sharing (4 x mandatory presentation, blog, wiki, paper @ github), ND / Fail (1) / Pass (6/7/8/9/10)
+      - 40% project report, Fail (1) / Pass (6/7/8/9/10)
       - 10% evidence of active self-directed learning, [0%/10% or 0%/5%/10%]
 
-   - Part 3: 25% of total grade, mean should be >= 4.0
 
-      - 10% background research paper, [0%/10% or 0%/5%/10%]
-      - 10% short presentation, 0%/5%/10%
-      - 10% short presentation, 0%/5%/10%
-      - 10% short presentation, 0%/5%/10%
-      - 10% short presentation, 0%/5%/10%
-      - 05% internal knowledge sharing, 0%/5%
-      - 30% project report, Fail (1) / Pass (6/7/8/9/10)
-      - 05% external knowledge sharing, 0%/5%
-      - 10% evidence of active self-directed learning, [0%/10% or 0%/5%/10%]
 
+<!--
+//FIXME: Retain this part for backup purposes
    - Part 4: 25% of total grade, mean should be >= 4.0
 
       - 10% background research paper, [0%/10% or 0%/5%/10%]
@@ -196,6 +205,8 @@ The total grade is the average of Part 1, Part 2, Part 3, and Part 4, provided a
       - 30% project report, Fail (1) / Pass (6/7/8/9/10)
       - 05% external knowledge sharing, 0%/5%
       - 10% evidence of active self-directed learning [0%/10% or 0%/5%/10%]
+
+-->
 
 ### Language
 
