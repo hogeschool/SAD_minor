@@ -116,3 +116,24 @@ Book: Web application hackers' handbook?
 
 When asking Stefan:
 That sounds interesting. However, I  have no good pen testing books to propose... I still believe that "hands-on" and CTF are best trainings...
+
+
+Asking Stefan (Stefan.Lueders@cern.ch):
+
+ARNE
+
+Currently we’re working on setting up a Security Lab minor (half a year of courses). One of the three project will be a black box security evaluation. For this we’re looking at giving the students the option of doing the CERN WhiteHat Challenge. This would be the third of three projects, before which the students are given an intensive 4 week introduction into all the security aspects.
+
+At the moment I’m looking for relevant reading materials. Do you have any favourite books related to (network) security evaluation that you would recommend for students?
+
+STEFAN
+
+That sounds interesting. However, I  have no good pen testing books to propose... I still believe that "hands-on" and CTF are best trainings...
+
+ARNE
+
+That’s certainly the plan :)  In the first project we will most likely have teams of students play a war game, with some Raspberry Pi’s on an offline network, with teams both playing the red and blue sides.
+
+For the second project, we’re looking a having the students do a code audit of open source applications. Background reading for student who will want to know more will most likely be The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities (http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426). Some preliminary ideas for students who want to do some background reading on pentesting are: Network Security Assessment (http://shop.oreilly.com/product/0636920034490.do) and the Web Application Hacker’s Handbook (http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118026470.html).
+
+Regarding CTFs: in the beginning these may be at too high a level for students, so we’re still looking for an interesting collection of hands-on exercises for computer security, network security, and security management. For cryptography we’ll most likely go with the Matasano Crypto Challenges (http://cryptopals.com), so students get to break things like RSA and improper implementations of AES :)

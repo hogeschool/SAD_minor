@@ -9,6 +9,13 @@ FIXME:
 - Focus of all the weekly recaps
 - Going for scrum or waterfall
 - Add summative assessments? --> probably too complicated
+- Hoeveelheid van multiple choice vragen wellicht aanpassen? --> 10?
+- Open vragen of prakticum in real time? 10 MC + 2 open?
+
+- What to do which week --> link to learning goals & assessment
+- How the 25% knowledge sharing is constructed, e.g.:
+  - 5% external knowledge sharing
+  - 20% given when student has performed 3 out of 4 presentations with pass
 
 ## Part 1 (mean multiple choice >= 4.0)
 
@@ -36,6 +43,7 @@ Full attendance requirement from 10:30 to 16:40 in week 1 to 4.
 
 Week 5
 25% ?? Friday 16:00 sharp, literature review, fail (1) / pass (6,7,8,9,10)
++ plan van aanpak ?
 
 Week 6
 ?? Monday 08:30 sharp, reparation literature survey
@@ -59,6 +67,9 @@ Week 10
 ?? Monday 08:30 sharp, reparation project report
 10% ?? Someday ????, individual oral exam + personal project diary
 ?? Someday ????, reparation oral exam
+--> Studenten verplicht laten werken met Git
+--> 10% afhankelijk van commented check-ins
+--> Daily checkins?
 
 Full attendance requirement Mon-Tue 10:30-11:20, Fri ??:??-??:?? in week 6 to 9.
 
