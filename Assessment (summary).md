@@ -17,6 +17,9 @@ FIXME:
   - 5% external knowledge sharing
   - 20% given when student has performed 3 out of 4 presentations with pass
 
+- Have incomplete (I) and complete (C) instead of pass/fail for pedagogical reasons?
+- Have more than one chance to fix "incomplete" projects? (Requiring students to complete an additional exercise / foot work each time?) (Wouldn't count for theoretical aspects / situations where exams need to be sat.)
+
 ## Part 1 (mean multiple choice >= 4.0)
 
 Week 1
