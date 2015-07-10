@@ -1,6 +1,6 @@
 # Assessment
 
-Exams and assessment deadlines are Friday 15:00. Retakes and reparation deadlines are the following Monday 08:30 for 5% parts and Friday 15:00 for 10% parts. In case of a retake, an extra exercise must be completed. Individual parts must be scored 3/5% or 6/10%. In total, at least 60% must be scored. At the instructor's discretion, grade balancing and/or relative (e.g. curved) grading may be applied. Attendance required 10:30-16:40 in week 1-4, and Mon-Tue 10:30-11:20, Fri 10:30-16:40 in week 5-19.
+Assignments must be handed in both electronically and in hard copy. Exams and assignment deadlines are Friday 15:00. Retakes and reparation deadlines are the following Monday 08:30 for 5% parts and Friday 15:00 for 10% parts. In case of a retake, an extra exercise must be completed. Individual parts must be scored 3/5% or 6/10%. In total, at least 60% must be scored. At the instructor's discretion, grade balancing and/or relative (e.g. curved) grading may be applied. Attendance required 10:30-16:40 in week 1-4, and Mon-Tue 10:30-11:20, Fri 10:30-16:40 in week 5-19.
 
 
 ```
