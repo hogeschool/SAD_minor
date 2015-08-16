@@ -1,0 +1,24 @@
+Learning goals (formal methods):
+The student can
+  read and understand a given formal system (FS0)
+  set up a basic formal system with given properties (FS1)
+  give convincing evidence that the properties of a formal system hold (FS2)
+  
+
+Examples of FS0, which is tested during the first week, are:
+- encoding of Peano numbers and their recursively defined operations
+- encoding of binary numbers and their recursively defined operations
+- inductive definition of lists and their recursively defined operations
+- inductive definition of trees and their recursively defined operations
+- inductive definition of expressions in a programming language and their recursively defined operations
+- inductive definition of statements in a programming language and their recursively defined operations
+
+Examples of FS1, which are also all project topics, are:
+- build a (scripting) programming language which prevents "null reference" errors through static typing
+- build a (scripting) programming language which prevents sending unencrypted content
+- build a (scripting) programming language which automatically generates a correctly working CMS
+
+Examples of FS2, which are all handed-in as part the documentation in strict connection with FS1, are:
+- tests
+- analytical discussion
+- formal proofs
