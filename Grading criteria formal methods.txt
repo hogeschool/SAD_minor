@@ -35,7 +35,7 @@ THE ONLY PARTS GRADED DURING THE SAD MINOR ARE THE ONES MARKED WITH AN ASTERISK,
 
 TO SHIELD YOU FROM ALL THIS WORK, which would be significantly more than a single minor, we provide you with a ready-made meta-compiler that allows the definition of programming languages by focusing directly on the analyzer and the optimizer. The meta-compiler comes equipped with an extensive suite of tests that will help you understand if you broke something, and also how the program works.
 
-You are very strongly encouraged to make use of the meta-compiler because you will get more done, and you will also get more help as the teachers are very expert in it. A list of possible tasks is online in the *issues* section of the meta-compiler GitHub page. 
+You are very strongly encouraged to make use of the meta-compiler because you will get more done, and you will also get more help as the teachers are very expert in it. A list of possible tasks is online in the *issues* section of the meta-compiler GitHub page (https://github.com/vs-team/metacompiler). 
 Should you be interested in actually doing something within the meta-compiler itself, then it is also possible. The meta-compiler is written in F#, and therefore you may add features to it in the same language.
 
 You may also suggest your own project (which should still be inspired from the existing open issues). In this case, use of F# is a strict requirement, and previous acceptance from the teacher is required.
