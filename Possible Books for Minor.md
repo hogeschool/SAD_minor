@@ -4,11 +4,6 @@
 
 ### Cryptography --> Cryptanalysis?
 
-Extremely likely:
-Book: Everyday Cryptography ISBN-13: 978-0199695591 ([Amazon](http://www.amazon.com/Everyday-Cryptography-Fundamental-Principles-Applications/dp/0199695598))
-
-Extremely likely:
-Book: Cryptography Engineering ISBN-13: 978-0470474242 ([Amazon](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246))
 
 Extremely likely:
 Exercises: Matasano
@@ -33,9 +28,6 @@ Security management book?
 
 #### Threat modeling 
 
-Extremely likely:
-Book: Threat Modeling Book ([Book](http://threatmodelingbook.com))
-
 #### Security Architecture
 
 *Guys in Delft are asked to deliver input* (Last update: 13/6/2015)
@@ -59,7 +51,6 @@ feedback from the people who are building those systems."
 
 How to setup a secure environment
 
-PDF: Security Engineering ([PDF](http://www.cl.cam.ac.uk/~rja14/book.html))
 
 *Gerrit?*
 
@@ -73,8 +64,6 @@ Assessment of security
 
 ### Human track: Usable Security Test
 
-Extremely likely:
-Usable Security: History, Themes, and Challenges ([Link](http://www.morganclaypool.com/doi/abs/10.2200/S00594ED1V01Y201408SPT011))
 
 Most likely:
 Rocket surgery made easy
@@ -91,14 +80,12 @@ Anne: Dat klopt, Krug brengt het een beetje quick en dirty. Maar wel toegankelij
 ### Technical track: Open Source Software Assessment
 
 Most likely:
-Book: The art of software security assessment (ISBN-13: 978-0321444424 / [Amazon](http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426))
 
 ## Q4 - Black box evaluation / Open environment: in the field / Field work
 
 ### Human track: Phishing
 
 Not sure:
-Book: Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails (ISBN: 978-1-118-95847-6 / [Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118958470.html))
 
 Most likely:
 Social engineering book Hadnagy?
