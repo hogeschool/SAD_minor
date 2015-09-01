@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.15)  27 AUG 2015 11:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.15)  1 SEP 2015 15:44
 entering extended mode
 **Modulewijzer*SAD*minor.tex
 ("C:\Users\Giuseppe\Documents\GitHub\SAD_minor\Modulewijzer SAD minor.tex"
@@ -595,7 +595,6 @@ File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 Writing index file Modulewijzer*SAD*minor.idx
 ("C:\Users\Giuseppe\Documents\GitHub\SAD_minor\build\Modulewijzer SAD minor.aux
 " (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Modulebeschrijving.aux)
-(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/AlgemeneOmschrijving.aux)
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Programma.aux)
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Toetsing.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
@@ -677,190 +676,55 @@ Package pdftex.def Info: img/logo.png used on input line 89.
  <C:/Users/Giuseppe/Documents/GitHub/SAD_minor/img/logo.png>]
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Modulebeschrijving.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd")
-<img/comptabel.pdf, id=13, 257.96375pt x 195.73125pt> <use img/comptabel.pdf>
-<use img/comptabel.pdf>
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 []|\OT1/cmr/bx/n/10 Prerequisite know-
- []
-
-
-Underfull \hbox (badness 2277) in paragraph at lines 64--64
-[]|\OT1/cmr/m/n/10 For the for-mal me-thods
- []
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 gram-ming Book 1),
- []
-
-
-Underfull \hbox (badness 4995) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 au-thors: Gi-u-seppe
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 Mag-giore, Gi-ulia
- []
-
-
-Underfull \hbox (badness 4543) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 Gi-u-seppe Mag-giore,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 Gi-ulia Cos-tan-tini,
- []
-
-
-Underfull \hbox (badness 7851) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 Fran-ce-sco Di Gia-
- []
-
-
-Underfull \hbox (badness 5878) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 como, Ge-rard van
- []
-
-File: img/comptabel.pdf Graphic file (type pdf)
-<use img/comptabel.pdf>
-Package pdftex.def Info: img/comptabel.pdf used on input line 64.
-(pdftex.def)             Requested size: 199.16928pt x 151.12567pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\OT1/cmr/m/n/10 abstract com-plex
- []
-
-
-Underfull \hbox (badness 5388) in paragraph at lines 64--64
-[]\OT1/cmr/m/n/10 architect lan-gu-a-ges,
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 bra-ries in a for-mal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\OT1/cmr/m/n/10 build lan-gu-a-ges,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 tools, and other
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-\OT1/cmr/m/n/10 li-bra-ries within a
  []
 
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 65.
+Package pdftex.def Info: img/logo.png used on input line 49.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
  [1
 
 ]
-Overfull \vbox (603.32149pt too high) has occurred while \output is active []
-
+File: img/logo.png Graphic file (type png)
+ <use img/logo.png>
+Package pdftex.def Info: img/logo.png used on input line 93.
+(pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
+ [2])
+(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Programma.tex)
 File: img/logo.png Graphic file (type png)
 
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 65.
-(pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [2 <C:/Users/Giuseppe/Documents/GitHub/SAD_minor/img/comptabel.pdf>]
-Underfull \hbox (badness 2277) in paragraph at lines 86--86
-[]|\OT1/cmr/m/n/10 For the for-mal me-thods
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
-[]\OT1/cmr/m/n/10 Meta-programming
- []
-
-
-Underfull \hbox (badness 1348) in paragraph at lines 86--86
-\OT1/cmr/m/n/10 school's own im-ple-
- []
-
-File: img/logo.png Graphic file (type png)
-<use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 87.
-(pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [3])
-(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/AlgemeneOmschrijving.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
-)
-File: img/logo.png Graphic file (type png)
- <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 105.
-(pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [4
-
-
-]
-(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Programma.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-)
-File: img/logo.png Graphic file (type png)
- <use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 107.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [5
+ [3
 
 
 ]
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Toetsing.tex
-File: img/logo.png Graphic file (type png)
-
-<use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 60.
-(pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [6
-
-
-]
-Underfull \hbox (badness 1454) in paragraph at lines 68--68
-[]|\OT1/cmr/m/n/10 The stu-dents have done very
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/n/10 The stu-dents have done sig-ni-fi-cant
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 68--68
-\OT1/cmr/m/n/10 re-po-si-tory, and the re-po-si-tory
+Underfull \hbox (badness 1325) in paragraph at lines 26--26
+\OT1/cmr/m/n/10 re-po-si-tory, and the re-po-si-tory itself is
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 74--75
-[]|\OT1/cmr/m/n/10 Concretely and highly usa-ble
+Underfull \hbox (badness 1931) in paragraph at lines 26--26
+\OT1/cmr/m/n/10 or-ga-ni-zed, ef-fi-cient, and con-tains only
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 74--75
-\OT1/cmr/m/n/10 re-sults are vi-si-ble and clearly
+Overfull \hbox (8.53186pt too wide) in paragraph at lines 14--29
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--29
+
  []
 
 )
@@ -868,23 +732,17 @@ File: img/logo.png Graphic file (type png)
  <use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 109.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [7]
-(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Bijlage1.tex
-Underfull \hbox (badness 1107) in paragraph at lines 8--8
-[]|\OT1/cmr/m/n/10 waarden: in-te-ger, float,
- []
+ [4
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 8--8
-\OT1/cmr/m/n/10 dou-ble, boolean, char,
- []
-
-)
+]
+(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Bijlage1.tex)
 File: img/logo.png Graphic file (type png)
- <use img/logo.png>
+
+<use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 117.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [8
+ [5
 
 ]
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Bijlage2.tex
@@ -901,26 +759,25 @@ File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 46.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [9])
+ [6])
 No file Modulewijzer*SAD*minor.ind.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 124.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [10]
+ [7]
 ("C:\Users\Giuseppe\Documents\GitHub\SAD_minor\build\Modulewijzer SAD minor.aux
 " (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Modulebeschrijving.aux)
-(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/AlgemeneOmschrijving.aux)
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Programma.aux)
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Toetsing.aux)) ) 
 Here is how much of TeX's memory you used:
- 6444 strings out of 493921
- 93011 string characters out of 3144867
- 208900 words of memory out of 3000000
- 9567 multiletter control sequences out of 15000+200000
+ 6431 strings out of 493921
+ 92426 string characters out of 3144867
+ 201900 words of memory out of 3000000
+ 9562 multiletter control sequences out of 15000+200000
  6876 words of font info for 25 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,16n,49p,861b,379s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,15n,49p,861b,379s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fil
 es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
@@ -933,9 +790,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on "C:/Users/Giuseppe/Documents/GitHub/SAD_minor/build/Modulewij
-zer SAD minor.pdf" (11 pages, 171240 bytes).
+zer SAD minor.pdf" (8 pages, 158058 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
