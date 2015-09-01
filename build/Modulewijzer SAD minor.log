@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.15)  1 SEP 2015 15:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.15)  1 SEP 2015 16:01
 entering extended mode
 **Modulewijzer*SAD*minor.tex
 ("C:\Users\Giuseppe\Documents\GitHub\SAD_minor\Modulewijzer SAD minor.tex"
@@ -676,20 +676,20 @@ Package pdftex.def Info: img/logo.png used on input line 89.
  <C:/Users/Giuseppe/Documents/GitHub/SAD_minor/img/logo.png>]
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Modulebeschrijving.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd")
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 []|\OT1/cmr/bx/n/10 Prerequisite know-
  []
 
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 49.
+Package pdftex.def Info: img/logo.png used on input line 42.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
  [1
 
 ]
 File: img/logo.png Graphic file (type png)
  <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 93.
+Package pdftex.def Info: img/logo.png used on input line 86.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
  [2])
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Programma.tex)
@@ -736,15 +736,6 @@ Package pdftex.def Info: img/logo.png used on input line 109.
 
 
 ]
-(C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Bijlage1.tex)
-File: img/logo.png Graphic file (type png)
-
-<use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 117.
-(pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [5
-
-]
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Bijlage2.tex
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
@@ -759,22 +750,24 @@ File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png used on input line 46.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [6])
+ [5
+
+])
 No file Modulewijzer*SAD*minor.ind.
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
-Package pdftex.def Info: img/logo.png used on input line 124.
+Package pdftex.def Info: img/logo.png used on input line 122.
 (pdftex.def)             Requested size: 40.76544pt x 32.24394pt.
- [7]
+ [6]
 ("C:\Users\Giuseppe\Documents\GitHub\SAD_minor\build\Modulewijzer SAD minor.aux
 " (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Modulebeschrijving.aux)
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Programma.aux)
 (C:\Users\Giuseppe\Documents\GitHub\SAD_minor\tex/Toetsing.aux)) ) 
 Here is how much of TeX's memory you used:
- 6431 strings out of 493921
- 92426 string characters out of 3144867
- 201900 words of memory out of 3000000
- 9562 multiletter control sequences out of 15000+200000
+ 6424 strings out of 493921
+ 92229 string characters out of 3144867
+ 199900 words of memory out of 3000000
+ 9558 multiletter control sequences out of 15000+200000
  6876 words of font info for 25 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,15n,49p,861b,379s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -790,9 +783,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX
 onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on "C:/Users/Giuseppe/Documents/GitHub/SAD_minor/build/Modulewij
-zer SAD minor.pdf" (8 pages, 158058 bytes).
+zer SAD minor.pdf" (7 pages, 155828 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
