@@ -1,0 +1,8 @@
+C:\Users\Giuseppe\Desktop\StateMonad\bin\Debug\StateMonad.exe.config
+C:\Users\Giuseppe\Desktop\StateMonad\bin\Debug\StateMonad.XML
+C:\Users\Giuseppe\Desktop\StateMonad\bin\Debug\StateMonad.exe
+C:\Users\Giuseppe\Desktop\StateMonad\bin\Debug\StateMonad.pdb
+C:\Users\Giuseppe\Desktop\StateMonad\bin\Debug\FSharp.Core.dll
+C:\Users\Giuseppe\Desktop\StateMonad\bin\Debug\FSharp.Core.xml
+C:\Users\Giuseppe\Desktop\StateMonad\obj\Debug\StateMonad.exe
+C:\Users\Giuseppe\Desktop\StateMonad\obj\Debug\StateMonad.pdb

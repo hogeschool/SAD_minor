@@ -1,0 +1,8 @@
+C:\Users\Giuseppe\Desktop\MonadTransformers\bin\Debug\MonadTransformers.exe.config
+C:\Users\Giuseppe\Desktop\MonadTransformers\bin\Debug\MonadTransformers.XML
+C:\Users\Giuseppe\Desktop\MonadTransformers\bin\Debug\MonadTransformers.exe
+C:\Users\Giuseppe\Desktop\MonadTransformers\bin\Debug\MonadTransformers.pdb
+C:\Users\Giuseppe\Desktop\MonadTransformers\bin\Debug\FSharp.Core.dll
+C:\Users\Giuseppe\Desktop\MonadTransformers\bin\Debug\FSharp.Core.xml
+C:\Users\Giuseppe\Desktop\MonadTransformers\obj\Debug\MonadTransformers.exe
+C:\Users\Giuseppe\Desktop\MonadTransformers\obj\Debug\MonadTransformers.pdb
